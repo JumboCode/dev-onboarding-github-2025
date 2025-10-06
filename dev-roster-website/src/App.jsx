@@ -8,7 +8,7 @@ function App() {
       <div className='margin-left-1'>
         <h2>A2Empowerment</h2>
         <ul>
-          <li>Test Developer Name</li>
+          <li>hi</li>
           <li>Test Developer Name</li>
         </ul>
         <h2>Bread & Roses</h2>
